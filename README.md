@@ -6,8 +6,8 @@
 
 ## introduction
 I like to **code** *sometimes*\
-**I'm currently just lurking or commiting on my private repositories** 📦\
-I have no "main" language ~~for now~~
+**currently just lurking or commiting on my private repositories** 📦\
+no "main" language for now
 
 ***[*** *fueled by sheer laziness / wanting to automate things* ***]***
 
