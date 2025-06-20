@@ -19,7 +19,10 @@ I have no "main" language ~~for now~~
 - 📤 apis
 
 ### gaming
-- 🔫 shooters
+- 🔫 first person
+- 🏕️ survival
+- 📦 factory like
+- 🧩 puzzle
 
 <!--
 ## things i have hands on with
