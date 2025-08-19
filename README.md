@@ -2,12 +2,12 @@
 
 # Welcome
 👋 Hi, I'm LeVequ ! ! \
-![Static Badge](https://img.shields.io/badge/currently_a-cs_student-blue)
+![Static Badge](https://img.shields.io/badge/currently_pursuing_a-cs_degree-blue)
 
 ## introduction
-I like to **code** *sometimes*\
-**currently just lurking or commiting on my private repositories** 📦\
-no "main" language for now
+I like to **code**\
+**currently just commiting on my private repositories** 📦\
+unfortunately no "main" language for now
 
 ***[*** *fueled by sheer laziness / wanting to automate things* ***]***
 
@@ -34,7 +34,7 @@ no "main" language for now
 📲 discord: levequ
 
 ---
-am noob coder. ✨ [levequ.com](https://levequ.com)
+am noob coder. 🥲 [levequ.com](https://levequ.com)
 
 <!--
 **LeVequ/LeVequ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
